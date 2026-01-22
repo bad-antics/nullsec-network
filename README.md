@@ -14,18 +14,22 @@ bad-antics, NullSec Framework, network hacking tools, traffic analyzer, network 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![License](https://img.shields.io/badge/License-NNET--XXX-red?style=for-the-badge)](LICENSE)
 
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+
 ```
-     ▓█████▄  ██▀███   ██▓ ██▓███      ███▄    █ ▓█████▄▄▄█████▓
-     ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒   ██ ▀█   █ ▓█   ▀▓  ██▒ ▓▒
-     ░██   █▌▓██ ░▄█ ▒▒██▒▓██░ ██▓▒  ▓██  ▀█ ██▒▒███  ▒ ▓██░ ▒░
-     ░▓█▄   ▌▒██▀▀█▄  ░██░▒██▄█▓▒ ▒  ▓██▒  ▐▌██▒▒▓█  ▄░ ▓██▓ ░ 
-     ░▒████▓ ░██▓ ▒██▒░██░▒██▒ ░  ░  ▒██░   ▓██░░▒████▒ ▒██▒ ░ 
-      ▒▒▓  ▒ ░ ▒▓ ░▒▓░░▓  ▒▓▒░ ░  ░  ░ ▒░   ▒ ▒ ░░ ▒░ ░ ▒ ░░   
-      ░ ▒  ▒   ░▒ ░ ▒░ ▒ ░░▒ ░       ░ ░░   ░ ▒░ ░ ░  ░   ░    
-        ░        ░     ░            ░   ░   ░       ░    ░      
-     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-     █░░ PORT SCAN ░░░ PACKET SNIFF ░░░ ARP SPOOF ░░░ MITM ░░░█
-     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+    ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
+    ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
+   ▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
+   ▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
+   ▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
+   ░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+     ░    ░    ░   ░   ░         ░            ░   ░   ░        
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   █░░░░░░░░░░░░░░░ N E T W O R K ░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
                        bad-antics
 ```
 
