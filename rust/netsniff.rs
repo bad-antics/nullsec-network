@@ -1,6 +1,6 @@
 /*
  * NetSniff - High-Performance Packet Analyzer
- * Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+ * Author: bad-antics | GitHub: bad-antics | Twitter: x.com/AnonAntics
  * License: NNET-XXX (Get key at x.com/AnonAntics)
  *
  *     ▓█████▄  ██▀███   ██▓ ██▓███      ██████  ███▄    █  ██▓  █████▒ █████▒
