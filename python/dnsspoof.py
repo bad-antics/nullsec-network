@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 DNS Spoofer - NullSec Network Toolkit
-Author: bad-antics | GitHub: bad-antics | Discord: discord.gg/killers
-License: NNET-XXX (Get key at discord.gg/killers)
+Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+License: NNET-XXX (Get key at x.com/AnonAntics)
 
      ▓█████▄  ██▀███   ██▓ ██▓███      ▓█████▄  ███▄    █   ██████ 
      ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒   ▒██▀ ██▌ ██ ▀█   █ ▒██    ▒ 
@@ -283,7 +283,7 @@ Examples:
   # Log mode only
   sudo python3 dnsspoof.py -i eth0 --log -o queries.txt
 
-Get premium at discord.gg/killers
+Get premium at x.com/AnonAntics
         '''
     )
     
@@ -306,7 +306,7 @@ Get premium at discord.gg/killers
     
     if args.version:
         print("DNS Spoofer v2.0.0")
-        print("github.com/bad-antics | discord.gg/killers")
+        print("github.com/bad-antics | x.com/AnonAntics")
         return
         
     if not SCAPY_AVAILABLE:

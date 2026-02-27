@@ -1,7 +1,7 @@
 /*
  * NetSniff - High-Performance Packet Analyzer
- * Author: bad-antics | GitHub: bad-antics | Discord: discord.gg/killers
- * License: NNET-XXX (Get key at discord.gg/killers)
+ * Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+ * License: NNET-XXX (Get key at x.com/AnonAntics)
  *
  *     ▓█████▄  ██▀███   ██▓ ██▓███      ██████  ███▄    █  ██▓  █████▒ █████▒
  *     ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒  ▒██    ▒  ██ ▀█   █ ▓██▒▓██   ▒▓██   ▒ 
@@ -432,13 +432,13 @@ fn main() {
         println!("  sudo netsniff -i eth0 -f \"tcp port 80\"");
         println!("  sudo netsniff -i eth0 -c 1000 -w capture.pcap");
         println!();
-        println!("Get premium at discord.gg/killers");
+        println!("Get premium at x.com/AnonAntics");
         return;
     }
 
     if args.contains(&"-v".to_string()) || args.contains(&"--version".to_string()) {
         println!("NetSniff v{}", VERSION);
-        println!("github.com/bad-antics | discord.gg/killers");
+        println!("github.com/bad-antics | x.com/AnonAntics");
         return;
     }
 
@@ -473,5 +473,5 @@ fn main() {
     stats.print_summary();
 
     println!("\n[*] For full functionality, compile with libpcap support");
-    println!("[*] Get premium features at discord.gg/killers");
+    println!("[*] Get premium features at x.com/AnonAntics");
 }

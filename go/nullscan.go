@@ -1,7 +1,7 @@
 /*
  * NullScan - Ultra-fast Async Port Scanner
- * Author: bad-antics | GitHub: bad-antics | Discord: discord.gg/killers
- * License: NNET-XXX (Get key at discord.gg/killers)
+ * Author: bad-antics | GitHub: bad-antics | Discord: x.com/AnonAntics
+ * License: NNET-XXX (Get key at x.com/AnonAntics)
  *
  *     ▓█████▄  ██▀███   ██▓ ██▓███      ██████  ▄████▄   ▄▄▄       ███▄    █ 
  *     ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒  ▒██    ▒ ▒██▀ ▀█  ▒████▄     ██ ▀█   █ 
@@ -321,7 +321,7 @@ func main() {
 
 	if *version {
 		fmt.Printf("NullScan v%s\n", VERSION)
-		fmt.Println("github.com/bad-antics | discord.gg/killers")
+		fmt.Println("github.com/bad-antics | x.com/AnonAntics")
 		return
 	}
 
@@ -332,7 +332,7 @@ func main() {
 		fmt.Println("  nullscan -t 192.168.1.1 -p 1-1000")
 		fmt.Println("  nullscan -t 10.0.0.0/24 -p common -threads 1000")
 		fmt.Println("  nullscan -t target.com -p all -sV -o results.json -f json")
-		fmt.Println("\nGet premium key at discord.gg/killers")
+		fmt.Println("\nGet premium key at x.com/AnonAntics")
 		return
 	}
 
